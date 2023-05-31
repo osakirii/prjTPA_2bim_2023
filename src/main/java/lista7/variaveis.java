@@ -32,7 +32,7 @@ public class variaveis {
         double d = 100.0; //declarando um double
             System.out.println("Double: "+ d);
 
-        int var1 = 0, var2 = 1, var3 = 2, var4;
+        int var1 = 0, var2 = 1, var3 = 2;
             System.out.println("Variável 1: " +var1 +". Variável 2: " +var2 +". Variável 3: " +var3);
     }
 }
