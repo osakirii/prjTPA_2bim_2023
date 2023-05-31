@@ -15,5 +15,7 @@ public class ex1 {
 
         A = ((bM + bm)*h)/2;
         System.out.println("A área do trapézio é " +A);
+
+        input.close();
     }
 }

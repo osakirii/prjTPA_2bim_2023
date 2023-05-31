@@ -1,9 +1,7 @@
 package lista8;
-import java.util.Scanner;
 
 public class Exemplo03 {
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
         double  DP, S1, S2, S3;
 
         DP = 500;

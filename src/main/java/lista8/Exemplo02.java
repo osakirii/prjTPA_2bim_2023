@@ -20,5 +20,6 @@ public class Exemplo02 {
         System.out.println("O valor do seu salário bruto é de: " +SB);
         System.out.println("O valor do seu salário líquido é de: " +SL);
         
+        input.close();
     }
 }

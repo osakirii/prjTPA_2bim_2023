@@ -21,5 +21,6 @@ public class ex2 {
         lib = brl/1.57;
         System.out.print("O valor em libras esterlinas é: $" +lib +"\n");
 
+        input.close();
     }
 }

@@ -17,5 +17,7 @@ public class ex3 {
         vend = vend*0.04; //aplica a comissão
         sal = sal+vend; //cria o novo salário
         System.out.println("O funcionário " +nome +" receberá RS$" +vend +" de comissão, e seu salário novo será R$" +sal);
+        
+        input.close();
     }
 }

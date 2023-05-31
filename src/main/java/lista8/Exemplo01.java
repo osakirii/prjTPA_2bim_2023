@@ -13,5 +13,7 @@ public class Exemplo01 {
         al = input.nextDouble();
         ar = bs*al;
         System.out.println("A área do retângulo é: " +ar);
+    
+        input.close();
     }
 }

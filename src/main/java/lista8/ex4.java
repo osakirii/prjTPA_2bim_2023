@@ -13,5 +13,7 @@ public class ex4 {
 
         hDegrau = hSobe/hDegrau;
         System.out.println("O número de degraus que precisará subir é: " +hDegrau);
+
+        input.close();
     }
 }

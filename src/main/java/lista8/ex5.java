@@ -14,5 +14,7 @@ public class ex5 {
 
         conv = prod/conv;
         System.out.println("O número de convites mínimos que precisam ser vendidos é " +conv);
+
+        input.close();
     }
 }
