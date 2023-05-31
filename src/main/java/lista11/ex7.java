@@ -19,6 +19,8 @@ public class ex7 {
                     JOptionPane.showMessageDialog(null, "A ordem crescente é: " +d2 +"/" +m2 +"/" +a2 +", depois " +d1 +"/" +m1 +"/" +a1 +".");
                 else if(d2 > d1)
                     JOptionPane.showMessageDialog(null, "A ordem crescente é: " +d1 +"/" +m1 +"/" +a1 +", depois " +d2 +"/" +m2 +"/" +a2 +".");
+                else if(d2 == d1)
+                    JOptionPane.showMessageDialog(null, "Os dias são iguais.");
             } else if(m2 > m1)
                 JOptionPane.showMessageDialog(null, "A ordem crescente é: " +d1 +"/" +m1 +"/" +a1 +", depois " +d2 +"/" +m2 +"/" +a2 +".");
         } else
